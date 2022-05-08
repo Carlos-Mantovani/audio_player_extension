@@ -4,6 +4,12 @@
     "name": "never gonna give you up",
     "description": "plays never gonna give you up from rick astley",
     "version": "1.0",
+    "icons": {
+        "16": "/img/microphone.png",
+        "32": "/img/microphone.png",
+        "48": "/img/microphone.png",
+        "128": "/img/microphone.png"
+    },
     "action": {
         "default_popup": "popup.html"
     }
