@@ -1,0 +1,11 @@
+{
+
+    "manifest_version": 3,
+    "name": "never gonna give you up",
+    "description": "plays never gonna give you up from rick astley",
+    "version": "1.0",
+    "action": {
+        "default_popup": "popup.html"
+    }
+
+}
